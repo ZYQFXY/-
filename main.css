@@ -1,0 +1,35 @@
+/* 选择器{
+	属性:值
+}
+ */
+body{
+	background: url("向阳.jpg");
+	/* 背景不要重复填充 */
+	background-repeat: no-repeat; 
+	 /* 尺寸 */
+	background-size: cover;
+	
+}
+
+span{
+	font-size: 50px;
+	font-family: "微软雅黑";
+}
+
+#a4 {
+    font-size: 70px;
+}
+
+
+
+input{
+	font-size: 25px;
+	font-family: "微软雅黑";
+	width: 200px;
+	height: 40px;
+}
+
+div{
+	margin-top: 10%;
+	margin-left: 15%;
+}
